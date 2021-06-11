@@ -7,3 +7,4 @@ pandas
 sklearn
 statsmodels
 nibabel
+nilearn
